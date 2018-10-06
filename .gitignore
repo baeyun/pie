@@ -40,14 +40,22 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 # Compiled binary addons (http://nodejs.org/api/addons.html)
+=======
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+>>>>>>> 8d19c713ba2b62aab04b32d2076ee10ecb27dd3b
 build/Release
 
 # Dependency directories
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 # Typescript v1 declaration files
+=======
+# TypeScript v1 declaration files
+>>>>>>> 8d19c713ba2b62aab04b32d2076ee10ecb27dd3b
 typings/
 
 # Optional npm cache directory
@@ -68,6 +76,7 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 #######################################
 # Python ignores
 #######################################
@@ -175,3 +184,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+=======
+# next.js build output
+.next
+>>>>>>> 8d19c713ba2b62aab04b32d2076ee10ecb27dd3b
